@@ -1,0 +1,6 @@
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.Core\bin\Debug\Youtube.UygulamaAlani.CustomerApp.Core.dll
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.Core\bin\Debug\Youtube.UygulamaAlani.CustomerApp.Core.pdb
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.Core\obj\Debug\Youtube.UygulamaAlani.CustomerApp.Core.csprojAssemblyReference.cache
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.Core\obj\Debug\Youtube.UygulamaAlani.CustomerApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.Core\obj\Debug\Youtube.UygulamaAlani.CustomerApp.Core.dll
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.Core\obj\Debug\Youtube.UygulamaAlani.CustomerApp.Core.pdb

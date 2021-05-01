@@ -1,0 +1,14 @@
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.UI\bin\Debug\Youtube.UygulamaAlani.CustomerApp.UI.exe.config
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.UI\bin\Debug\Youtube.UygulamaAlani.CustomerApp.UI.exe
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.UI\bin\Debug\Youtube.UygulamaAlani.CustomerApp.UI.pdb
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.UI\obj\Debug\Youtube.UygulamaAlani.CustomerApp.UI.csprojAssemblyReference.cache
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.UI\obj\Debug\Youtube.UygulamaAlani.CustomerApp.UI.Form1.resources
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.UI\obj\Debug\Youtube.UygulamaAlani.CustomerApp.UI.Properties.Resources.resources
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.UI\obj\Debug\Youtube.UygulamaAlani.CustomerApp.UI.csproj.GenerateResource.cache
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.UI\obj\Debug\Youtube.UygulamaAlani.CustomerApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.UI\obj\Debug\Youtube.UygulamaAlani.CustomerApp.UI.exe
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.UI\obj\Debug\Youtube.UygulamaAlani.CustomerApp.UI.pdb
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.UI\bin\Debug\Youtube.UygulamaAlani.CustomerApp.Core.dll
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.UI\bin\Debug\Youtube.UygulamaAlani.CustomerApp.Core.pdb
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.UI\obj\Debug\Youtube.UygulamaAlani.CustomerApp.UI.csproj.CopyComplete
+C:\Users\Cengiz ATİLLA\Source\Repos\Youtube.UygulamaAlani.CustomerApp\Youtube.UygulamaAlani.CustomerApp.UI\obj\Debug\Youtube.UygulamaAlani.CustomerApp.UI.MainForm.resources
